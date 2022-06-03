@@ -1,0 +1,58 @@
+[
+  {
+    "imagen": "https://images.moresneakers.com/nike-go-flyease-black-anthracite-cw5883-003-16468219035201.jpg",
+    "marca": "NIKE",
+    "modelo": "NIKE GO FLYEASE",
+    "precio": "124,99€",
+    "url": "https://www.nike.com/es/t/go-flyease-zapatillas-JSkMt3"
+  },
+  {
+    "imagen": "https://static.runnea.com/images/201907/c8/nike-air-max-270-react-caracteristicas-400x400x80xX.png?1",
+    "marca": "NIKE",
+    "modelo": "NIKE AIR MAX 270 REACT",
+    "precio": "486€",
+    "url": "https://www.farfetch.com/es/shopping/men/nike-zapatillas-air-max-270-react-item-14272658.aspx?size=34&storeid=11218"
+  },
+  {
+    "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_450,h_450/global/306935/01/sv01/fnd/IND/fmt/png",
+    "marca": "PUMA",
+    "modelo": "PUMA MERCEDES X-RAY LITE PRO",
+    "precio": "53,33€",
+    "url": "https://www.amazon.es/X-Ray-Zapatillas-Deportivas-Unisex-Adulto/dp/B0995SYNZJ/ref=asc_df_B0995SYNZJ/?tag=googshopes-21&linkCode=df0&hvadid=571336947319&hvpos=&hvnetw=g&hvrand=12331907983736967972&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005493&hvtargid=pla-1427574282899&th=1&psc=1"
+  },
+  {
+    "imagen": "https://cdnx.jumpseller.com/encargos-king/image/18279094/resize/635/635?1649179405",
+    "marca": "ADIDAS",
+    "modelo": "ADIDAS FORUM LOW BAD BUNNY",
+    "precio": "990€",
+    "url": "https://restocks.net/es/p/adidas-forum-low-bad-bunny?size_id=11&valuta=EUR&country=ES"
+  },
+  {
+    "imagen": "https://www.zapatos.es/media/catalog/product/cache/image/650x650/0/0/0000209571493_03_rz.jpg",
+    "marca": "NIKE",
+    "modelo": "NIKE AIR MAX ZM950",
+    "precio": "140,24€",
+    "url": "https://sneakerpeeker.es/product-spa-21386-Nike-Air-Max-ZM950-CU7625-600.html"
+  },
+  {
+    "imagen": "https://i.ebayimg.com/images/g/W20AAOSw53VhJ8Yc/s-l300.jpg",
+    "marca": "VANS",
+    "modelo": "VANS BAJA AUTHENTIC",
+    "precio": "109€",
+    "url": "https://www.farfetch.com/es/shopping/men/vans-zapatillas-bajas-authentic-item-16673954.aspx?size=20&storeid=11218"
+  },
+  {
+    "imagen": "https://balenciaga.dam.kering.com/m/43af1592153b9842/Large-549817W05G01000_F.jpg?v=2",
+    "marca": "BALENCIAGA",
+    "modelo": "BALENCIAGA SPEED",
+    "precio": "345€",
+    "url": "https://www.balenciaga.com/es-es/ni%C3%B1os---speed-zapatillas-negro-808873932.html?utm_source=google&utm_medium=organic&utm_campaign=free_shopping_listings_ES&utm_content=Ni%C3%B1os%20-%20Speed%20Zapatillas"
+  },
+  {
+    "imagen": "https://res.cloudinary.com/brokenchains/image/upload/c_scale,h_600,q_auto:best,w_600/CK2719-400%20W%20NIKE%20AIR%20VAPORMAX%20360%204.jpg",
+    "marca": "NIKE",
+    "modelo": "NIKE AIR VAPORMAX 360",
+    "precio": "588,02€",
+    "url": "https://www.brokenchains.com.co/ver-producto/881/wmns-nike-air-vapormax-360-blue-voidmagic"
+  }
+]

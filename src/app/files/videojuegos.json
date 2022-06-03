@@ -1,0 +1,58 @@
+[
+  {
+    "imagen": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202109/09/00197581501893____14__640x640.jpg",
+    "juego": "FIFA 22",
+    "plataforma": "PLAYSTATION 5",
+    "precio": "69,99€",
+    "url": "https://www.game.es/VIDEOJUEGOS/DEPORTES/PLAYSTATION-5/FIFA-22/191606"
+  },
+  {
+    "imagen": "https://media.game.es/COVERV2/3D_L/149/149298.png",
+    "juego": "GTA V",
+    "plataforma": "PLAYSTATION 4",
+    "precio": "19,99€",
+    "url": "https://www.game.es/VIDEOJUEGOS/ACCION/PLAYSTATION-4/GRAND-THEFT-AUTO-V-PREMIUM-EDITION/149298"
+  },
+  {
+    "imagen": "https://www.electrowifi.es/2182773-thickbox_default/juego-para-consola-nintendo-switch-fortnite-pack-de-leyendas-de-menta.jpg",
+    "juego": "FORTNITE",
+    "plataforma": "PLAYSTATION 4",
+    "precio": "29,99€",
+    "url": "https://www.game.es/VIDEOJUEGOS/ACCION/PLAYSTATION-4/FORTNITE-PACK-LEYENDAS-DE-MENTA/193392"
+  },
+  {
+    "imagen": "https://static.fnac-static.com/multimedia/Images/ES/NR/5e/3b/0b/736094/1540-6/tsp20160818162720/New-Super-Mario-Bros-2-Nintendo-3DS.jpg",
+    "juego": "NEW SUPER MARIO BROS 2",
+    "plataforma": "NINTENDO 3DS",
+    "precio": "39,95€",
+    "url": "https://www.game.es/VIDEOJUEGOS/PLATAFORMAS/NINTENDO-3DS/NEW-SUPER-MARIO-BROS-2/086184"
+  },
+  {
+    "imagen": "http://retrocables.es/tienda/img/p/3/0/0/5/3005-large_default.jpg",
+    "juego": "POKEMON PERLA",
+    "plataforma": "NINTENDO DS",
+    "precio": "14,56€",
+    "url": "https://buytoplaygame.com/es/product/Pokemon-Pearl"
+  },
+  {
+    "imagen": "https://media.game.es/COVERV2/3D_L/076/076888.png",
+    "juego": "INAZUMA ELEVEN",
+    "plataforma": "NINTENDO DS",
+    "precio": "19,95€",
+    "url": "https://www.todocoleccion.net/videojuegos-consola-nintendo-ds/inazuma-eleven-nintendo-ds~x269685548?srsltid=AWLEVJyZkFSFtNFt3BD--tAzCivHH5D23lU9t1kslQzehe26qP0l1Q-xMjs"
+  },
+  {
+    "imagen": "http://media.4rgos.it/s/Argos/4094373_R_SET?$Main768$&w=620&h=620",
+    "juego": "RING FIT ADVENTURE",
+    "plataforma": "NINTENDO SWITCH",
+    "precio": "69,99€",
+    "url": "https://www.game.es/VIDEOJUEGOS/AVENTURA/NINTENDO-SWITCH/RING-FIT-ADVENTURE/172770"
+  },
+  {
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIjdO5-ySz9sroM4JcHskwYvFB91cabIzNlsbpu7Uepe2aGd-XoJdkjbHIqFAcS2rQFIg&usqp=CAU",
+    "juego": "PLANTAS VS ZOMBIES",
+    "plataforma": "PLAYSTATION 4",
+    "precio": "19,95€",
+    "url": "https://www.game.es/VIDEOJUEGOS/ACCION/PLAYSTATION-4/PLANTS-VS-ZOMBIES-BATTLE-FOR-NEIGHBORVILLE/172348"
+  }
+]

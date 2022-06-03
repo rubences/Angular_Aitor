@@ -1,0 +1,22 @@
+<div class="m4">
+  <div class="row">
+    <div class="col" *ngFor="let item of camisetas">
+      <div class="card" style="width: 18rem">
+        <img src="{{ item.imagen }}" class="card-img-top" />
+          <div class="card-body">
+          <h5 class="card-title">
+            {{ item.equipo }}
+          </h5>
+          <p class="card-text">
+            {{ item.division }}
+          </p>
+          <p class="card-text">
+            {{ item.precio }}
+          </p>
+          <a href="{{ item.url }}" class="btn btn-primary" target="_blank">Comprar</a>
+        </div>
+      </div>
+      <br>
+    </div>
+  </div>
+</div>

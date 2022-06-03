@@ -1,0 +1,66 @@
+[
+  {
+    "imagen": "https://static.mixtapes.com/img/334/CDAL27679_550_1_5fb1edeb2f081.jpg",
+    "nombre": "AFRODISIACO",
+    "cantante": "RAUW ALEJANDRO",
+    "numerocanciones": "16 CANCIONES",
+    "precio": "5,58€",
+    "url": "https://www.mixunit.com/p/1237269-afrodis-aco-rauw-alejandro"
+  },
+  {
+    "imagen": "https://static.mixtapes.com/img/334/CDAL30777_550_1_600b883203550.jpg",
+    "nombre": "LOS DIOSES",
+    "cantante": "ANUEL Y OZUNA",
+    "numerocanciones": "12 CANCIONES",
+    "precio": "5,58€",
+    "url": "https://www.mixunit.com/p/1240367-los-dioses-anuel-aa-ozuna"
+  },
+  {
+    "imagen": "https://static.mixtapes.com/img/334/CDAL42165_550_1_61c899b1bd821.jpg",
+    "nombre": "VICEVERSA",
+    "cantante": "RAUW ALEJANDRO",
+    "numerocanciones": "14 CANCIONES",
+    "precio": "5,58€",
+    "url": "https://www.mixunit.com/p/1301988-vice-versa-rauw-alejandro"
+  },
+  {
+    "imagen": "https://static.mixtapes.com/img/334/CDAL41172_550_1_6195c42721888.jpg",
+    "nombre": "FELICILANDIA",
+    "cantante": "ÁLVARO DÍAZ",
+    "numerocanciones": "16 CANCIONES",
+    "precio": "5,58€",
+    "url": "https://www.mixunit.com/p/1288673-felicilandia-alvaro-diaz"
+  },
+  {
+    "imagen": "https://static.mixtapes.com/img/334/CDAL45963_550_1_627566125fcd8.jpg",
+    "nombre": "UN VERANO SIN TI",
+    "cantante": "BAD BUNNY",
+    "numerocanciones": "23 CANCIONES",
+    "precio": "5,58€",
+    "url": "https://www.mixunit.com/p/1345373-un-verano-sin-ti-bad-bunny"
+  },
+  {
+    "imagen": "https://static.mixtapes.com/img/334/CDAL45785_550_1_626a03c7b140d.jpg",
+    "nombre": "MICRODOSIS",
+    "cantante": "MORA",
+    "numerocanciones": "15 CANCIONES",
+    "precio": "5,58€",
+    "url": "https://www.mixunit.com/p/1342155-microdosis-mora"
+  },
+  {
+    "imagen": "https://static.mixtapes.com/img/334/CDAL31259_550_1_601e0586d1362.jpg",
+    "nombre": "PRIMER DIA DE CLASES",
+    "cantante": "MORA",
+    "numerocanciones": "16 CANCIONES",
+    "precio": "5,58€",
+    "url": "https://www.mixunit.com/p/1240849-primer-dia-de-clases-mora"
+  },
+  {
+    "imagen": "https://static.mixtapes.com/img/334/CDAL42207_550_1_61c89b239be2e.jpg",
+    "nombre": "INTER SHIBUYA",
+    "cantante": "FEID",
+    "numerocanciones": "15 CANCIONES",
+    "precio": "5,58€",
+    "url": "https://www.mixunit.com/p/1302030-inter-shibuya-la-mafia-feid"
+  }
+]

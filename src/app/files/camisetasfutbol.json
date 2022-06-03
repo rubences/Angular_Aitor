@@ -1,0 +1,58 @@
+[
+  {
+    "imagen": "https://www.soccerfactory.es/images/55624_S0_T800.jpg",
+    "equipo": "REAL BETIS",
+    "division": "PRIMERA DIVISIÓN",
+    "precio": "78€",
+    "url": "https://www.soccerfactory.es/es/camisetas/comprar-camiseta-kappa-real-betis-balompie----final-copa-del-rey-2021-2022-351i18w?gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlGpSqicH23Xyc6VOCEWsIpXrLrJUCiBh_nX2yXgJhtH61A09XbuwQcaAtLPEALw_wcB"
+  },
+  {
+    "imagen": "https://cdn.shopify.com/s/files/1/0579/6734/5863/products/79e16cfe_1024x1024@2x.jpg?v=1627493785",
+    "equipo": "ARGENTINA",
+    "division": "SELECCIONES",
+    "precio": "26€",
+    "url": "https://prendafutbolera.com/products/camiseta-argentina-local-2021-campeones-copa-america"
+  },
+  {
+    "imagen": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/201911/11/00132435103141____2__1200x1200.jpg",
+    "equipo": "ESPAÑA",
+    "division": "SELECCIONES",
+    "precio": "48,95€",
+    "url": "https://www.elcorteingles.es/deportes/A30280818-camiseta-de-ninos-1-equipacion-fef-seleccion-espanola-de-futbol-2020-adidas/"
+  },
+  {
+    "imagen": "https://images.footballfanatics.com/real-madrid/real-madrid-home-shirt-2022-23_ss4_p-13307703+u-ugv88zv1xt0vghucnnpl+v-02e7312f17284d9cad0a5612a39bd756.jpg?_hv=1&w=900",
+    "equipo": "REAL MADRID",
+    "division": "PRIMERA DIVISIÓN",
+    "precio": "90€",
+    "url": "https://store2.fanatics-intl.com/es/league/international_clubs/team/real_madrid/category/jerseys/browse/featuredproduct/13307703/real_madrid/o-8920+t-3842+d-16017+f-13307703?_s=GPA_CA-fanatics-eu&cur=EUR&gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlF6zOC8HrqDbhxiZZKDAqdd03LYF6c-YWC-x15PICZbU_nRHz5fwhYaAgylEALw_wcB&loc=es-ES&sku=38663431&utm_medium=cse"
+  },
+  {
+    "imagen": "https://cf.shopee.com.mx/file/4a81766f01671e4bf5722c6d40e6df2f",
+    "equipo": "BARCELONA",
+    "division": "PRIMERA DIVISIÓN",
+    "precio": "62,97€",
+    "url": "https://www.nike.com/es/u/fc-barcelona-2021-22-stadium-away-camiseta-de-futbol-WvFTxC/CV7890-581?CP=EUNS_AFF_AWIN_ES_624709_TwengaSolutionsCSS_174411&utm_source=TwengaSolutionsCSS&utm_medium=affiliate&utm_campaign=624709&utm_content=174411&awc=16336_1654078592_46553570c2a2c80b70d404a5e2f57ab7"
+  },
+  {
+    "imagen": "https://media.esportsrueda.com/c/product/1a-camiseta-juventus-adulto-2223-520x520.jpg",
+    "equipo": "JUVENTUS",
+    "division": "SERIE A",
+    "precio": "79,99€",
+    "url": "https://www.esportsrueda.com/1a-camiseta-juventus-adulto-2223-bb86/?otcountry=ES&sku=h38907-l&gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlGXC_6mn4_OHMFTVNTLU9rJZcvdWo7KBGpqV9d9ZPzi8Gg5GBoYdKYaAhoVEALw_wcBhttps://www.esportsrueda.com/1a-camiseta-juventus-adulto-2223-bb86/?otcountry=ES&sku=h38907-l&gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlGXC_6mn4_OHMFTVNTLU9rJZcvdWo7KBGpqV9d9ZPzi8Gg5GBoYdKYaAhoVEALw_wcB"
+  },
+  {
+    "imagen": "https://www.camisetasfutboleses.com/image/cache/catalog/camisetaseuro2021/Camiseta-Paris-Saint-Germain-Rosa-2021-2022-500x500.jpg",
+    "equipo": "PSG",
+    "division": "LIGUE 1",
+    "precio": "25€",
+    "url": "https://www.camisetasfutboleses.com/Camiseta-Paris-Saint-Germain-Rosa-2021-2022"
+  },
+  {
+    "imagen": "https://www.camisetasfutboleses.com/image/cache/catalog/Futbol2022/Camiseta-Cadiz-CF-Primera-Equipaci%C3%B3n-2021-2022-500x500.jpg",
+    "equipo": "CÁDIZ",
+    "division": "PRIMERA DIVISIÓN",
+    "precio": "52,50€",
+    "url": "https://tienda.cadizcf.com/1-equipacion/458-camiseta-1-equip.html"
+  }
+]
